@@ -16,7 +16,7 @@ Weather Predictor is a machine learning project developed as a part of the ECEG 
 
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/swatikhedekar/python-project-on-weather-dataset).
 
-**<span style="color:#EA401B;font-weight:bold;">Legal documents: If you want to use this code please read the LICENSE in the repository** 
+**<span style="color:#EA401B;font-weight:bold;">Legal documents: If you want to use this code please read the LICENSE in the repository**</span>
 
 ### Data Attributes
 
